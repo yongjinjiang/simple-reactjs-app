@@ -30,14 +30,14 @@ export default class Customers extends Component {
       return (<p>Loading data</p>)
     return (<div className="addmargin">
       <div className="col-md-3">
-        {
+        {/* {
 
           this.state.customerList.data.map(customer => <Panel bsStyle="info" key={customer.name} className="centeralign">
             <Panel.Heading>
               <Panel.Title componentClass="h3">{customer.name}</Panel.Title>
             </Panel.Heading>
             <Panel.Body>
-              <p>{customer.email}</p>
+              <p>{customer.jobProfile}</p>
               <p>{customer.phone}</p>
               <Button bsStyle="info" onClick={() => this.setState({selectedCustomer: customer.id})}>
 
@@ -47,7 +47,7 @@ export default class Customers extends Component {
 
             </Panel.Body>
           </Panel>)
-        }
+        } */}
       </div>
       <div className="col-md-6">
         <CustomerDetails val={this.state.selectedCustomer}/>

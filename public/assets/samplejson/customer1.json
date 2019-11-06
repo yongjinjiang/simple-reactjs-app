@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
+	"name": "Kevin Ching",
 	"email": "jsmith@test.com",
 	"phone": "123456789",
 	"city": "bangalore",
 	"state": "karnataka",
 	"country": "India",
 	"organization": "Company 1",
-	"jobProfile": "Software Developer",
+	"jobProfile": "Data Scentist at United Health",
 	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
 }
