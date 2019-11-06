@@ -14,13 +14,14 @@ class App extends Component {
         <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          
           <h1 className="App-title">Science-Faith discussion</h1>
         </header>
           <Switch>
                 <Route exact path= "/" render={() => (
-                  <Redirect to="/customerlist"/>
+                  <Redirect to="/topic"/>
                 )}/>
-                 <Route exact path='/customerlist' component={Customers} />
+                 <Route exact path='/topic' component={Customers} />
           </Switch>
       </div>
     </Router>
