@@ -70,7 +70,7 @@ Mounds View, Minnesota 55112</p>
             </div>
          
             <br />
-            <p style={{color: "red",fontSize:40}}>All are Welome!</p>
+            <p style={{color: "red",fontSize:40}}>All are Welcome!</p>
       
           </Panel.Body>
       </Panel>
