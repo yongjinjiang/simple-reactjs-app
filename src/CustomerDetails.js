@@ -50,22 +50,28 @@ export default class CustomerDetails extends Component {
           <p>Organization : {this.state.customerDetails.data.organization}</p>
           <p>Job Profile : {this.state.customerDetails.data.jobProfile}</p>
           <p>Additional Info : {this.state.customerDetails.data.additionalInfo}</p> */}
-          <p style={{color:'red',size:30}}>Address:   5151 Program Ave
+          <p style={{size:30}}>Address: Room D504, Bethlehem Baptist Church North Campus,</p>
+          <p style={{size:30}}>5151 Program Ave
 Mounds View, Minnesota 55112</p>
-<p style={{color:'red'}}><center>Time:  7 pm to 8 pm, Nov 6(Wednesday)</center></p>
-          <h3>What is the nature of quantum interference?</h3>
+<p ><center>Time:  7 pm to 8 pm, Nov 6(Wednesday)</center></p>
+          <p style={{color: "red",fontSize:40}}>What is the nature of quantum interference?</p>
         
           <br />
           <div>
           <p style={{textAlign:"justify"}}>   
-            Quantum mechanics is a fundamental base of modern physics as well as
+          
+          {'   '} Quantum mechanics is a fundamental base of modern physics as well as
              many sectors of modern science.  Despite its tremendous success during 
              the past century, there is no consensus among physicists on how to
               understand quantum mechanics. The double-slit problem and delayed 
               choice quantum eraser, etc, causes much philosophical discussion.  
         
             </p>
-          </div>
+            </div>
+         
+            <br />
+            <p style={{color: "red",fontSize:40}}>All are Welome!</p>
+      
           </Panel.Body>
       </Panel>
     </div>)
