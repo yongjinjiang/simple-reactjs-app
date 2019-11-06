@@ -29,7 +29,9 @@ export default class Customers extends Component {
     if (!this.state.customerList)
       return (<p>Loading data</p>)
     return (<div className="addmargin">
-      <div className="col-md-3">
+      <div className="col-md-1">
+     
+      
         {/* {
 
           this.state.customerList.data.map(customer => <Panel bsStyle="info" key={customer.name} className="centeralign">
@@ -52,6 +54,33 @@ export default class Customers extends Component {
       <div className="col-md-6">
         <CustomerDetails val={this.state.selectedCustomer}/>
       </div>
+
+      <div className="col-md-5">
+
+      <br />
+        <br /><br />
+        <br /><br />
+        <br />
+      <p style={{color: "blue",fontSize:20,   position: "absolute",left: 60}}>Some videos to watch:</p>
+   
+        <br />
+        <br />
+        <ol style={{textAlign:"left"}}> 
+            <li>  <a href="https://www.youtube.com/watch?v=U7Z_TIw9InA">Delayed Choice Quantum Eraser Explained</a> </li>
+            <li>  <a href="https://www.youtube.com/watch?v=p-MNSLsjjdo">The Quantum Experiment that Broke Reality</a> </li>
+            <li>  <a href="https://www.youtube.com/watch?v=8ORLN_KwAgs">How the Quantum Eraser Rewrites the Past</a> </li>
+            <li>  <a href="https://www.youtube.com/watch?v=ZuvK-od647c">Quantum Entanglement & Spooky Action at a Distance</a> </li>  
+        </ol>
+        
+        <br />
+        <br />
+        <p style={{color: "blue",fontSize:20,   position: "absolute",left: 60}}>Weird? Let's chat, anyway.</p>
+        <br />
+        <br />
+
+
+         </div>
+
     </div>)
   }
 
