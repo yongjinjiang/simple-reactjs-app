@@ -66,10 +66,10 @@ export default class Customers extends Component {
         <br />
         <br />
         <ol style={{textAlign:"left"}}> 
-            <li>  <a href="https://www.youtube.com/watch?v=U7Z_TIw9InA">Delayed Choice Quantum Eraser Explained</a> </li>
-            <li>  <a href="https://www.youtube.com/watch?v=p-MNSLsjjdo">The Quantum Experiment that Broke Reality</a> </li>
-            <li>  <a href="https://www.youtube.com/watch?v=8ORLN_KwAgs">How the Quantum Eraser Rewrites the Past</a> </li>
-            <li>  <a href="https://www.youtube.com/watch?v=ZuvK-od647c">Quantum Entanglement & Spooky Action at a Distance</a> </li>  
+            <li>  <a href="https://www.youtube.com/watch?v=U7Z_TIw9InA" target="_blank">Delayed Choice Quantum Eraser Explained</a> </li>
+            <li>  <a href="https://www.youtube.com/watch?v=p-MNSLsjjdo" target="_blank">The Quantum Experiment that Broke Reality</a> </li>
+            <li>  <a href="https://www.youtube.com/watch?v=8ORLN_KwAgs" target="_blank">How the Quantum Eraser Rewrites the Past</a> </li>
+            <li>  <a href="https://www.youtube.com/watch?v=ZuvK-od647c" target="_blank">Quantum Entanglement & Spooky Action at a Distance</a> </li>  
         </ol>
         
         <br />
