@@ -60,12 +60,7 @@ Mounds View, Minnesota 55112</p>
           <div>
           <p style={{textAlign:"justify"}}>   
           
-          {'   '} Quantum mechanics is a fundamental base of modern physics as well as
-             many sectors of modern science.  Despite its tremendous success during 
-             the past century, there is no consensus among physicists on how to
-              understand quantum mechanics. The double-slit problem and delayed 
-              choice quantum eraser, etc, causes much philosophical discussion.  
-        
+          {'   '} Quantum mechanics is a fundamental base of modern physics as well as many sectors of modern science. Despite its tremendous success during the past century, there is no consensus among physicists on how to understand quantum mechanics. The double-slit problem and delayed choice quantum eraser, etc, causes much philosophical discussion. This Wednesday we’ll continue our discussion of this topic and share different historical interpretations that have been provided for how to understand the wave/particle behavior that light exhibits under varying conditions. We’ll also share thoughts regarding some recent experiments (touched upon briefly last time) and what implications they may have on this topic.
             </p>
             </div>
            

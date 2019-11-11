@@ -57,11 +57,9 @@ export default class Customers extends Component {
 
       <div className="col-md-5">
 
-      <br />
-        <br /><br />
-        <br /><br />
+        
         <br />
-      <p style={{color: "blue",fontSize:20,   position: "absolute",left: 60}}>Some videos to watch:</p>
+      <p style={{color: "blue",fontSize:20,   position: "absolute",left: 30}}>Some videos to watch:</p>
    
         <br />
         <br />
@@ -72,12 +70,26 @@ export default class Customers extends Component {
             <li>  <a href="https://www.youtube.com/watch?v=ZuvK-od647c" target="_blank">Quantum Entanglement & Spooky Action at a Distance</a> </li>  
         </ol>
         
-        <br />
-        <br />
-        <p style={{color: "blue",fontSize:20,   position: "absolute",left: 60}}>Weird? Let's chat, anyway.</p>
-        <br />
-        <br />
+        <div>
 
+        <br />     <br />
+          <p style={{textAlign:"justify"}}>  
+
+          <p style={{color: "blue",fontSize:20,   position: "absolute",left: 30}}>Questions to consider:</p>
+  
+        <br />
+        <br />
+        <ol style={{textAlign:"left"}}> 
+<li> The results of these experiments are very unexpected and unintuitive. How can we concisely articulate the nature of this mystery to novices?</li>
+
+<li> Scientific theory is all about repeatable experiments which either buttress or debunk proposed hypotheses. In contrast philosophy is often said to take over where science ends. In what sense does it seem as if quantum mechanics is now crossing over into the realm of philosophy?</li>
+
+</ol>
+</p>
+            </div>
+           
+ 
+      
 
          </div>
 
